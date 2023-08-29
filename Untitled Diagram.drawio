@@ -1,45 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T13:15:19.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="5BI8gSIPbJcMfzgANCgI" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T11:36:28.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="iM48C57m9d7v3Pwh_RWW" version="21.6.9" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2044" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-3">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-14">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-2">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-26">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="WEFvCsSaVA6V6na2K4AB-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-2" value="&lt;div align=&quot;left&quot;&gt;Farm&lt;/div&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;userid&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;farm name&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;size&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;location&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;Income generated&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;inSeason&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;isApproved&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;isDeleted&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;rating&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;Seasons&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;weight in produce&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;season id&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="249.25" height="249.25" as="geometry" />
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-2" target="O-utsXAOpJD8wxXmz3dd-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-3">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-2" value="&lt;div align=&quot;left&quot;&gt;Farm&lt;/div&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;userid&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;farm name&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;size&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;location&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;Income generated&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;inSeason&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;isApproved&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;isDeleted&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;rating&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;Seasons&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;weight in produce&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;season id&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320.75" width="249.25" height="249.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="487" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-3" value="&lt;div&gt;season&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;farmid&lt;/li&gt;&lt;li&gt;isActive&lt;/li&gt;&lt;li&gt;trackingid&lt;/li&gt;&lt;li&gt;procuce&lt;/li&gt;&lt;li&gt;start date&lt;/li&gt;&lt;li&gt;due date&lt;/li&gt;&lt;li&gt;crop type&lt;/li&gt;&lt;li&gt;expected weight&lt;/li&gt;&lt;li&gt;expences&lt;/li&gt;&lt;li&gt;income&lt;/li&gt;&lt;li&gt;total weight&lt;/li&gt;&lt;li&gt;quality&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-3" target="O-utsXAOpJD8wxXmz3dd-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-3" value="&lt;div&gt;season&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;farmid&lt;/li&gt;&lt;li&gt;isActive&lt;/li&gt;&lt;li&gt;trackingid&lt;/li&gt;&lt;li&gt;procuce&lt;/li&gt;&lt;li&gt;start date&lt;/li&gt;&lt;li&gt;due date&lt;/li&gt;&lt;li&gt;crop type&lt;/li&gt;&lt;li&gt;expected weight&lt;/li&gt;&lt;li&gt;expences&lt;/li&gt;&lt;li&gt;income&lt;/li&gt;&lt;li&gt;total weight&lt;/li&gt;&lt;li&gt;quality&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="190" width="174" height="234" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.764;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-9" target="WEFvCsSaVA6V6na2K4AB-26">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.764;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-9" target="WEFvCsSaVA6V6na2K4AB-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-9" value="&lt;div align=&quot;left&quot;&gt;Tracking&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;trackingid&lt;/li&gt;&lt;li&gt;stage{ {type:&quot;&quot;,isActive:&quot;&quot;,date:&quot;&quot;} }&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-9" value="&lt;div align=&quot;left&quot;&gt;Tracking&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;trackingid&lt;/li&gt;&lt;li&gt;stage{ {type:&quot;&quot;,isActive:&quot;&quot;,date:&quot;&quot;} }&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;li&gt;expectedDate&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="570" width="205.5" height="205.5" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="660" y="660" as="sourcePoint" />
             <mxPoint x="740" y="500" as="targetPoint" />
@@ -48,127 +58,291 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.856;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-14" target="WEFvCsSaVA6V6na2K4AB-44">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.856;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-14" target="WEFvCsSaVA6V6na2K4AB-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-14" value="&lt;div&gt;Credit&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;income&lt;/li&gt;&lt;li&gt;expence&lt;/li&gt;&lt;li&gt;loan&lt;/li&gt;&lt;li&gt;loan limit&lt;/li&gt;&lt;li&gt;farm id&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-14" value="&lt;div&gt;Credit&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;income&lt;/li&gt;&lt;li&gt;expence&lt;/li&gt;&lt;li&gt;loan&lt;/li&gt;&lt;li&gt;loan limit&lt;/li&gt;&lt;li&gt;farm id&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="10" y="640" width="239.5" height="239.5" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" target="WEFvCsSaVA6V6na2K4AB-2">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" target="WEFvCsSaVA6V6na2K4AB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-15">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" target="WEFvCsSaVA6V6na2K4AB-35">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" target="WEFvCsSaVA6V6na2K4AB-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-15" value="&lt;div&gt;user&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;username&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;password&lt;/li&gt;&lt;li&gt;usertype&lt;br&gt;&lt;/li&gt;&lt;li&gt;isActive&lt;/li&gt;&lt;li&gt;isVerified&lt;/li&gt;&lt;li&gt;isDeleted&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-4" target="O-utsXAOpJD8wxXmz3dd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-15" value="&lt;div&gt;user&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;username&lt;/li&gt;&lt;li&gt;email&lt;/li&gt;&lt;li&gt;phone&lt;/li&gt;&lt;li&gt;password&lt;/li&gt;&lt;li&gt;usertype&lt;br&gt;&lt;/li&gt;&lt;li&gt;isActive&lt;/li&gt;&lt;li&gt;isVerified&lt;/li&gt;&lt;li&gt;isDeleted&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="-10" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-22" target="WEFvCsSaVA6V6na2K4AB-24">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-22" target="WEFvCsSaVA6V6na2K4AB-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-22" target="WEFvCsSaVA6V6na2K4AB-30">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-22" target="WEFvCsSaVA6V6na2K4AB-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-140" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-22" value="&lt;div align=&quot;left&quot;&gt;orders&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;order id&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;tracking number&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;farm id&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;paid amount&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;payment method &lt;br&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;status&lt;/div&gt;&lt;/li&gt;&lt;li&gt;address&lt;/li&gt;&lt;li&gt;comment&lt;/li&gt;&lt;li&gt;payment status&lt;/li&gt;&lt;li&gt;items&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-22" value="&lt;div align=&quot;left&quot;&gt;orders&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;order id&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;tracking number&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;farm id&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;paid amount&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;payment method &lt;br&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;status&lt;/div&gt;&lt;/li&gt;&lt;li&gt;address&lt;/li&gt;&lt;li&gt;comment&lt;/li&gt;&lt;li&gt;payment status&lt;/li&gt;&lt;li&gt;items&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="-60" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-24" value="&lt;div&gt;Order tracking&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;stage&lt;/li&gt;&lt;li&gt;time&lt;/li&gt;&lt;li&gt;orderid&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;li&gt;method of delivary&lt;/li&gt;&lt;li&gt;contact person&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-24" target="O-utsXAOpJD8wxXmz3dd-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-24" value="&lt;div&gt;Order tracking&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;stage&lt;/li&gt;&lt;li&gt;time&lt;/li&gt;&lt;li&gt;orderid&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;li&gt;method of delivary&lt;/li&gt;&lt;li&gt;contact person&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="69.5" y="-350" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-26" value="&lt;div&gt;produce&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;type&lt;/li&gt;&lt;li&gt;farm id&lt;/li&gt;&lt;li&gt;quality &lt;br&gt;&lt;/li&gt;&lt;li&gt;quantity&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-26" value="&lt;div&gt;produce&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;type&lt;/li&gt;&lt;li&gt;farm id&lt;/li&gt;&lt;li&gt;quality &lt;br&gt;&lt;/li&gt;&lt;li&gt;quantity&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="-260" y="395" width="200" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-30" target="WEFvCsSaVA6V6na2K4AB-37">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-30" target="WEFvCsSaVA6V6na2K4AB-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-215" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-30" value="&lt;div&gt;payments&lt;/div&gt;&lt;div&gt;userid&lt;/div&gt;&lt;div&gt;order&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;payment type&lt;/div&gt;&lt;div&gt;amount &lt;br&gt;&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;transaction code &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-30" value="&lt;div&gt;payments&lt;/div&gt;&lt;div&gt;userid&lt;/div&gt;&lt;div&gt;order&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;payment type&lt;/div&gt;&lt;div&gt;amount &lt;br&gt;&lt;/div&gt;&lt;div&gt;date&lt;/div&gt;&lt;div&gt;transaction code &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-330" y="-140" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-33">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-33" value="&lt;div&gt;Roles&lt;/div&gt;&lt;div&gt;if user is farmerf&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-33" value="&lt;div&gt;Roles&lt;/div&gt;&lt;div&gt;if user is farmerf&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="10" width="150" height="152.5" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-35" value="&lt;div&gt;user roles&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;userid&lt;/li&gt;&lt;li&gt;role&lt;/li&gt;&lt;li&gt;previlages&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-35" value="&lt;div&gt;user roles&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;userid&lt;/li&gt;&lt;li&gt;role&lt;/li&gt;&lt;li&gt;previlages&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="-160" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-37" value="payment message call back storage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-37" value="payment message call back storage" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-275" y="-320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-38" value="Escrow" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-38" value="Escrow" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="7.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615" y="-230" as="targetPoint" />
             <mxPoint x="600" y="-410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-49">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-52">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="-270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-56">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-41" target="WEFvCsSaVA6V6na2K4AB-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="-610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-41" value="if user is off taker" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-41" value="if user is off taker" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="-320" width="170" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-43" value="&lt;div&gt;search&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;list produce wanted&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-43" value="&lt;div&gt;search&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;list produce wanted&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="500" y="-470" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-44" value="&lt;div&gt;credit score algorithim&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;get the user usage on the system trackig farm finances and gearating funds ad put it in a scale of 1-5&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-44" value="&lt;div&gt;credit score algorithim&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;get the user usage on the system trackig farm finances and gearating funds ad put it in a scale of 1-5&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="670" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-49" value="&lt;div&gt;price negotiation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-49" value="&lt;div&gt;price negotiation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="-490" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-50" value="&lt;div&gt;message&lt;/div&gt;&lt;div&gt;offtakersid&lt;/div&gt;&lt;div&gt;farmerid&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-50" value="&lt;div&gt;message&lt;/div&gt;&lt;div&gt;offtakersid&lt;/div&gt;&lt;div&gt;farmerid&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="285" y="-380" width="155" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-52" target="WEFvCsSaVA6V6na2K4AB-26">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.755;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WEFvCsSaVA6V6na2K4AB-52" target="WEFvCsSaVA6V6na2K4AB-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-52" target="WEFvCsSaVA6V6na2K4AB-58">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WEFvCsSaVA6V6na2K4AB-52" target="WEFvCsSaVA6V6na2K4AB-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="-315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-52" value="&lt;div&gt;quality assessment&lt;/div&gt;&lt;div&gt;visual grading &lt;br&gt;&lt;/div&gt;&lt;div&gt;certification&lt;/div&gt;&lt;div&gt;grading&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-400" width="170" height="170" as="geometry" />
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-52" value="&lt;div&gt;quality assessment&lt;/div&gt;&lt;div&gt;visual grading &lt;br&gt;&lt;/div&gt;&lt;div&gt;certification&lt;/div&gt;&lt;div&gt;grading&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="740" y="-350" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-54" value="&lt;div&gt;manual and aoutomated grading system&lt;/div&gt;&lt;div&gt;and certification and grading&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-550" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-54" value="&lt;div&gt;manual and aoutomated grading system&lt;/div&gt;&lt;div&gt;and certification and grading&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="170" width="320" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-56" value="&lt;div&gt;provide ratingto farmers&lt;/div&gt;&lt;div&gt;commets on farmers &lt;br&gt;&lt;/div&gt;&lt;div&gt;rating btween 1-5&lt;/div&gt;&lt;div&gt;userid&lt;/div&gt;&lt;div&gt;farmid&lt;/div&gt;&lt;div&gt;produceid&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-56" value="&lt;div&gt;provide ratingto farmers&lt;/div&gt;&lt;div&gt;commets on farmers &lt;br&gt;&lt;/div&gt;&lt;div&gt;rating btween 1-5&lt;/div&gt;&lt;div&gt;userid&lt;/div&gt;&lt;div&gt;farmid&lt;/div&gt;&lt;div&gt;produceid&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="560" y="-730" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WEFvCsSaVA6V6na2K4AB-58" value="sms notification on payment success and order tracking" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="WEFvCsSaVA6V6na2K4AB-58" value="sms notification on payment success and order tracking" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="990" y="-355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-2" target="O-utsXAOpJD8wxXmz3dd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-2" value="&lt;div&gt;Quality acssurace&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;user id&lt;/div&gt;&lt;div&gt;userrole&lt;/div&gt;&lt;div&gt;units graded&lt;/div&gt;&lt;div&gt;certificate&lt;/div&gt;&lt;div&gt;grading mechanisim&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-910" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.175;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-4" target="O-utsXAOpJD8wxXmz3dd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WEFvCsSaVA6V6na2K4AB-15" target="O-utsXAOpJD8wxXmz3dd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="85" as="sourcePoint" />
+            <mxPoint x="345" y="-750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-4" value="if user is Quality assurance" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="-670" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-10" value="&lt;div&gt;grading mechaisim will be &lt;br&gt;&lt;/div&gt;&lt;div&gt;on view&amp;nbsp; no ai view &lt;br&gt;&lt;/div&gt;&lt;div&gt;certificatio we shall have a uique&lt;/div&gt;&lt;div&gt;code..&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-905" width="220" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-12" target="WEFvCsSaVA6V6na2K4AB-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-12" value="goods graded" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-650" width="205" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-13" value="&lt;div&gt;Text grading system will be&amp;nbsp;&lt;/div&gt;&lt;div&gt;betweden 1-5 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O-utsXAOpJD8wxXmz3dd-12">
+          <mxGeometry x="35" y="20" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16" target="O-utsXAOpJD8wxXmz3dd-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16" target="O-utsXAOpJD8wxXmz3dd-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16" target="O-utsXAOpJD8wxXmz3dd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16" target="O-utsXAOpJD8wxXmz3dd-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16" target="WEFvCsSaVA6V6na2K4AB-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-16" value="&lt;div&gt;prduce type &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Fruits and Vegetables&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Grains&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Pulses (Legumes)&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Livestock (Animals for Meat Production)&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Dairy Products&lt;/strong&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="840" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-18" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="450" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-22" value="&lt;p&gt;&lt;strong&gt;1. Fruits and Vegetables:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Size: Uniformity in size is often preferred for easier packaging and presentation.&lt;/li&gt;&lt;li&gt;Color: Appropriate color for the crop&#39;s maturity stage and variety.&lt;/li&gt;&lt;li&gt;Shape: Conformance to the expected shape for the crop.&lt;/li&gt;&lt;li&gt;Texture: Firmness, tenderness, and absence of blemishes or bruises.&lt;/li&gt;&lt;li&gt;Blemishes: Avoidance of cuts, bruises, spots, molds, and disease symptoms.&lt;/li&gt;&lt;li&gt;Maturity: Harvesting at the ideal stage of ripeness.&lt;/li&gt;&lt;li&gt;Flavor: Taste characteristics associated with the crop type.&lt;/li&gt;&lt;li&gt;Aroma: Pleasant and characteristic smell for the crop.&lt;/li&gt;&lt;li&gt;Skin Quality: Smoothness, thickness, and uniformity of skin or peel.&lt;/li&gt;&lt;li&gt;Defects: Freedom from abnormal growths, deformities, or insect damage.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="O-utsXAOpJD8wxXmz3dd-18">
+          <mxGeometry x="-30" y="-10" width="490" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-23" value="&lt;p&gt;&lt;strong&gt;4. Livestock (Animals for Meat Production):&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Weight: Meeting the desired weight range for the specific animal.&lt;/li&gt;&lt;li&gt;Conformation: Proper body shape and muscling for the breed.&lt;/li&gt;&lt;li&gt;Fat Content: Appropriate fat coverage and distribution.&lt;/li&gt;&lt;li&gt;Meat Color: Expected color for the type of meat.&lt;/li&gt;&lt;li&gt;Marbling: Presence of intramuscular fat for tenderness and flavor.&lt;/li&gt;&lt;li&gt;Muscle Texture: Firmness and consistency of muscle tissue.&lt;/li&gt;&lt;li&gt;Bone Structure: Proper bone development and minimal defects.&lt;/li&gt;&lt;li&gt;Disease-Free: Freedom from diseases, infections, or abnormalities.&lt;/li&gt;&lt;li&gt;Handling Stress: Minimal stress-related effects on meat quality.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="660" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="1308" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-31" value="&amp;nbsp;&lt;p&gt;&lt;strong&gt;2. Grains:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Size: Uniformity in grain size for even cooking and milling.&lt;/li&gt;&lt;li&gt;Shape: Conformance to the expected shape for the grain type.&lt;/li&gt;&lt;li&gt;Color: Appropriate color for the grain variety.&lt;/li&gt;&lt;li&gt;Foreign Material: Absence of foreign particles, stones, chaff, or impurities.&lt;/li&gt;&lt;li&gt;Moisture Content: Appropriate moisture level to prevent spoilage.&lt;/li&gt;&lt;li&gt;Aroma: Characteristic smell for the grain type.&lt;/li&gt;&lt;li&gt;Density: Full and intact kernels without hollowness.&lt;/li&gt;&lt;li&gt;Purity: Minimal presence of broken grains, weed seeds, or other contaminants.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="1100" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-33" value="&lt;p&gt;&lt;strong&gt;3. Pulses (Legumes):&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Size: Uniformity in size for consistent cooking and appearance.&lt;/li&gt;&lt;li&gt;Shape: Conformance to the expected shape for the pulse type.&lt;/li&gt;&lt;li&gt;Color: Appropriate color for the pulse variety.&lt;/li&gt;&lt;li&gt;Foreign Material: Absence of foreign particles, stones, or impurities.&lt;/li&gt;&lt;li&gt;Uniformity: Consistent appearance of the pulses.&lt;/li&gt;&lt;li&gt;Imperfections: Freedom from discolored, damaged, or insect-infested pulses.&lt;/li&gt;&lt;li&gt;Moisture Content: Appropriate moisture level to prevent spoilage.&lt;/li&gt;&lt;li&gt;Cooking Quality: Even cooking, tenderness, and absence of hardness.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="1150" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-37" value="&lt;p&gt;&lt;strong&gt;5. Dairy Products:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fat Content: Meeting the desired fat percentage for the dairy product.&lt;/li&gt;&lt;li&gt;Texture: Smoothness, creaminess, and consistency.&lt;/li&gt;&lt;li&gt;Flavor: Characteristic taste associated with the dairy product.&lt;/li&gt;&lt;li&gt;Aroma: Pleasant and characteristic smell.&lt;/li&gt;&lt;li&gt;Color: Appropriate color for the dairy product type.&lt;/li&gt;&lt;li&gt;Consistency: Uniform composition and absence of separation.&lt;/li&gt;&lt;li&gt;Microbial Content: Meeting safety standards for bacteria and pathogens.&lt;/li&gt;&lt;li&gt;Defects: Absence of off-flavors, foreign particles, or abnormalities.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1210" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-40" value="&lt;div&gt;Grading&amp;nbsp;&lt;/div&gt;&lt;div&gt;prduce &lt;br&gt;&lt;/div&gt;&lt;div&gt;cretarea &lt;br&gt;&lt;/div&gt;&lt;div&gt;rating&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="100" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-44" value="&lt;div&gt;CROWD FUNDING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-46" value="&lt;div&gt;UPLOAD LAND FOR CROWD FUNDING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SELECT&amp;nbsp; LAND TO FUND&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SEND MONEY TO ESCROW &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LAND OWNERS TO APPROVE LAND FOR FUND&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LAND APPROVAL BY SYSTEM&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FARM PRODUCE TRACKING&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;FUNDER AND OWER HAVE SIMILOR RESPONSIBILITIES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="260" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-48" value="&lt;div&gt;Farmer after land approval will apply for fund&lt;/div&gt;&lt;div&gt;we shall collect the funds from escrow and fund the &lt;br&gt;&lt;/div&gt;&lt;div&gt;so a funded farm will be a group&lt;/div&gt;&lt;div&gt;funders will be able to track every thing&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="690" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-52" value="&lt;div&gt;stage will be :1oredre recived , billing ,&lt;/div&gt;&lt;div&gt;&amp;nbsp;payment confermation, pakckig , looking for rider ?? &lt;br&gt;&lt;/div&gt;&lt;div&gt;pick up, on transitt, get riders number,&amp;nbsp; rider contascts you,&amp;nbsp;&lt;/div&gt;&lt;div&gt;delivary , confirmation&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-609" y="-525" width="469" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-54" value="&lt;div&gt;season &lt;br&gt;&lt;/div&gt;&lt;div&gt;when creating a season&amp;nbsp; farm id&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-270" width="620" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="WEFvCsSaVA6V6na2K4AB-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-70" y="410" as="sourcePoint" />
+            <mxPoint x="30" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.444;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="640" as="sourcePoint" />
+            <mxPoint x="-170" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-utsXAOpJD8wxXmz3dd-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.944;exitY=0.111;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O-utsXAOpJD8wxXmz3dd-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="835" as="sourcePoint" />
+            <mxPoint x="450" y="785" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
